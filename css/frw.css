@@ -51,9 +51,9 @@ h2 {
  #logo {
    margin: 20px;
    float: left;
-   width: 200px;
+   width: 100px;
    height: 60px;
-   background-image: url(img/m3.png) no-repeat center;
+   background-image: url('img/m3.png');
  }
 
  /*--Start nav--*/
@@ -115,7 +115,7 @@ h2 {
  }
  #js {
    background-color: #FFD700;
-   height: 210px;
+   height: 243.91px;
  }
 .one-third i {
    color: #F0F0F0;
@@ -125,7 +125,7 @@ h2 {
 .inner-wrapper-1 {
    float: left;
    width: 50%;
-   background-color: grey;
+   background-color: lightslategrey;
    text-align: left;
 }
 .inner-wrapper-2 {
@@ -137,7 +137,8 @@ h2 {
 .inner-wrapper-3 {
    float: left;
    width: 50%;
-   background-color: grey;
+   height: 152px;
+   background-color: slategrey;
    text-align: left;
  }
 
